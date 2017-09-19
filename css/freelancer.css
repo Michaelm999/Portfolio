@@ -52,7 +52,10 @@ hr.star-primary:after {
 
 hr.star-light {
   border-color: white; }
-
+hr#about-star.star-light:after{
+  color: white;
+  background-color: #17a2b8;
+}
 hr.star-light:after {
   color: white;
   background-color: #18BC9C; }
