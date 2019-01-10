@@ -84,7 +84,11 @@ section.success {
   section {
     padding: 75px 0; }
   section.first {
-    padding-top: 75px; } }
+    padding-top: 75px; } 
+    .questionthis{
+      font-size: 35px !important;
+    }
+  }
 
 .scroll-top {
   position: fixed;
@@ -188,7 +192,6 @@ header.masthead {
       font-size: 4.75em; }
     header.masthead .intro-text .skills {
       font-size: 1.75em; } }
-
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px; }
